@@ -3,7 +3,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lucasmonteiroi)
 
-- 🔭 I’m currently working on James Delivery
+- 🔭 I’m currently working on @octadesk
 - 👯 I’m looking to collaborate on SASS open source projects in nodejs
 - 💬 Ask me about anything, we can search the answer together
 - ⚡ Fun fact: I'm a beginner aquascaper
