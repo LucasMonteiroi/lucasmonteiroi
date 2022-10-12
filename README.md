@@ -16,7 +16,7 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 I’m currently working in `Octadesk` as `Backend Engineer`
+- 🔭 I’m currently working with `NodeJS` as `Backend Engineer`
 - 👯 I’m looking to collaborate on SAAS open source projects in nodejs
 - 💬 Ask me about anything, we can search the answer together
 - 📫 How to reach me: Lmsupport@outlook.com;
