@@ -11,8 +11,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/lucasmonteiroi?style=social) 
 ![GitHub User's stars](https://img.shields.io/github/stars/lucasmonteiroi?style=social) 
-![GitHub visitors](https://visitor-badge.glitch.me/badge?page_id=lucasmonteiroi)
-
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
