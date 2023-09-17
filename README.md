@@ -99,31 +99,14 @@ __Check out my GitHub repository:__
 </div>
 <br>
 
-## <img src="https://media.giphy.com/media/jIRyzncqRWzM3GYaQm/giphy.gif" width="25"> <b>Github Trophies</b>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=lucasmonteiroi)
-
-<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-[![lucasmonteiroi GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmonteiroi&theme=tokyonight)](https://github.com/lucasmonteiroi/github-readme-stats) 
-
-[![lucasmonteiroi wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lucasmonteiroi&theme=tokyonight)](https://github.com/lucasmonteiroi/github-readme-stats)
-
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasmonteiroi&theme=tokyonight&hide_border=true)
-
-<br>
+[![lucasmonteiroi GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasmonteiroi&theme=tokyonight)](https://github.com/lucasmonteiroi/github-readme-stats)  ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucasmonteiroi&theme=tokyonight&hide_border=true)
 
 ## <img src="https://media.giphy.com/media/Mp5uJLEE9Ompq/giphy.gif" width="25"> <b>GitHub Streak</b>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucasmonteiroi&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69)](https://git.io/streak-stats) 
-
-<br>
-
-## <img src="https://media.giphy.com/media/GhRjInY9JbKms/source.gif" width="25"> <b>Contribution graph</b>
-
-![lucasmonteiroi Github Contribution](https://activity-graph.herokuapp.com/graph?username=lucasmonteiroi&theme=dracula)
 
 <br>
 
@@ -136,6 +119,3 @@ __Check out my GitHub repository:__
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/lucasmonteiroinacio/)
 [![Stack Overflow](https://img.shields.io/badge/-StackOverflow-black?style=for-the-badge&logo=StackOverflow)](https://stackoverflow.com/users/6562579/lucas-monteiro-in%c3%a1cio?tab=topactivity)
 [![DevTo Badge](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/lucasmonteiroi/)
-
-## &nbsp;
-![Build with](http://ForTheBadge.com/images/badges/built-with-love.svg)&nbsp;
