@@ -19,7 +19,7 @@
 - 🔭 I’m currently working with `NodeJS` as `Backend Engineer`
 - 👯 I’m looking to collaborate on SAAS open source projects in nodejs
 - 💬 Ask me about anything, we can search the answer together
-- 📫 How to reach me: Lmsupport@outlook.com;
+- 📫 How to reach me: me@lucasmonteiroi.dev;
 - ⚡ Fun fact: I'm a beginner aquascaper
 - 💪🏼 Fav Quote: "The effort beats the talent when the talent doesn't effort".
 
@@ -113,7 +113,7 @@ __Check out my GitHub repository:__
 ## <img src="https://media.tenor.com/images/7e96d994f29b388f63f7aa77ff2bea78/tenor.gif" width="25"> <b> Know more about me 👋</b>
 
 
-[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:rhoriah@gmail.com)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:me@lucasmonteiroi.dev)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/lucasmonteiroi/)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/lucasmonteiroi)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/lucasmonteiroinacio/)
