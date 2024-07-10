@@ -11,10 +11,15 @@
 <h2 align="center">Hi Geeks, I'm Lucas Monteiro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 👨🏾‍💻 *Senior Software Engineer at [Aubay](https://www.aubay.pt/),  working as a external workforce [Siemens](https://www.siemens.com/global/en.html)*
+
 😀 I like to play Valorant, code new things and stay with my wife in my free time
+
 📫 How to reach me: [me@lucasmonteiroi.dev](mailto:me@lucasmonteiroi.dev)
+
 👯 Do You like my contribution on open source projects? Text me ❤️
+
 💥 Nicer overview about my code [here](https://octoprofile.vercel.app/user?id=lucasmonteiroi).
+
 📓 *Checkout my [blog](https://blog.lucasmonteiroi.dev)*
 
 ```javascript
