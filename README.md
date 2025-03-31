@@ -20,8 +20,6 @@
 
 💥 Nicer overview about my code [here](https://octoprofile.vercel.app/user?id=lucasmonteiroi).
 
-📓 *Checkout my [blog](https://blog.lucasmonteiroi.dev)*
-
 ```javascript
 const lucasmonteiroi = {
  liveIn: ['Lisbon, Portugal'],
